@@ -25,4 +25,4 @@
 - [简单](./essay/简单.md)
 - [自己的生活](./essay/自己的生活.md)
 - [二次阳](./essay/二次阳.md)
-
+- [无常](./essay/wuchang.md)
