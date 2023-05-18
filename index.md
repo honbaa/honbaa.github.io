@@ -26,3 +26,4 @@
 - [自己的生活](./essay/自己的生活.md)
 - [二次阳](./essay/二次阳.md)
 - [无常](./essay/wuchang.md)
+- [选择](./essay/xuanze.md)
