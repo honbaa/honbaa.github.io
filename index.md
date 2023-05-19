@@ -30,4 +30,4 @@
 
 # 趣事
 
--[第一名](./joy/diyiming.md)
+- [第一名](./joy/diyiming.md)
