@@ -27,6 +27,7 @@
 - [二次阳](./essay/二次阳.md)
 - [无常](./essay/wuchang.md)
 - [选择](./essay/xuanze.md)
+- [英语](./essay/yingyu.md)
 
 # 趣事
 
