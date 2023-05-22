@@ -32,3 +32,4 @@
 # 趣事
 
 - [第一名](./joy/diyiming.md)
+- [雪国列车](./joy/xueguolieche.md)
