@@ -33,3 +33,5 @@
 
 - [第一名](./joy/diyiming.md)
 - [雪国列车](./joy/xueguolieche.md)
+- [花](./joy/hua.md)
+- [家人](./joy/jiaren.md)
