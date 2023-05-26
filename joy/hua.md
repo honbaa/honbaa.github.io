@@ -4,7 +4,7 @@
 
 小区里种了很多种花草，在这个时间都开放了。之前的日子，为什么没有留心呢？
 
-![花](https://honbaa.newzhang.top/image/yuan-li-de-hua.jpeg.jpeg)	
+![花](https://honbaa.newzhang.top/image/yuan-li-de-hua.jpeg)	
 
 是太忙了吗？--那在忙什么呢？
 
