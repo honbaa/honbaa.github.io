@@ -28,6 +28,7 @@
 - [无常](./essay/wuchang.md)
 - [选择](./essay/xuanze.md)
 - [英语](./essay/yingyu.md)
+- [世界](./essay/shijie.md)
 
 # 趣事
 
