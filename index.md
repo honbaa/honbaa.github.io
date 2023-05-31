@@ -29,6 +29,7 @@
 - [选择](./essay/xuanze.md)
 - [英语](./essay/yingyu.md)
 - [世界](./essay/shijie.md)
+- [战争](./essay/zhanzheng.md)
 
 # 趣事
 
