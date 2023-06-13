@@ -34,6 +34,7 @@
 - [雪国列车](./joy/xueguolieche.md)
 - [花](./joy/hua.md)
 - [家人](./joy/jiaren.md)
+- [人生路遥歌词](./joy/renshengluyao.md)
 
 # 年结语
 - [2017](./essay/2017总结.md)
