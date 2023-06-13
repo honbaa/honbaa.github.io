@@ -26,6 +26,7 @@
 - [世界](./essay/shijie.md)
 - [战争](./essay/zhanzheng.md)
 - [急什么](./essay/jishenme.md)
+- [三件事](./essay/sanjianshi.md)
 
 # 趣事
 
