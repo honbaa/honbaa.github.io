@@ -2,8 +2,20 @@
 
 这是一首歌词，可以在QQ音乐在线看MV。《人生之路》主题曲。
 
+MV：
+
 [人生路遥MV](https://y.qq.com/n/ryqq/mv/002q8m4P491aNB) 
 
+剧照：
+
+
+![人生](https://honbaa.newzhang.top/image/ren1.jpeg)	
+![人生](https://honbaa.newzhang.top/image/ren2.jpeg)	
+![人生](https://honbaa.newzhang.top/image/ren3.jpeg)	
+![人生](https://honbaa.newzhang.top/image/ren4.jpeg)	
+![人生](https://honbaa.newzhang.top/image/ren5.jpeg)	
+ 
+ 
  歌词:
 
  
